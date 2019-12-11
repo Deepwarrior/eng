@@ -1,7 +1,7 @@
 Source: John Daugman, Information theory and the IrisCode (https://www.cl.cam.ac.uk/~jgd1000/InfoTheoryIrisCode.pdf)
 
 Method for estimating entropy of iris biometrics was proposed and showed correlation between entropy of biometric source
-and resulted quality of recognition. Evaluated biometric source entropy gives correct approximation of biometric 
+and resulted recognition quality . Evaluated biometric source entropy gives correct approximation of biometric 
 recognition quality. But direct usage of entropy for statistical distributions isn't applicable to biometrics input
 because its distribution is unknown. In this paper IrisCode dataset in bit-string representation was analyzed and 
 Hidden Markov Model was created for predicting distribution of Iris biometrics. After augmentation natural iris dataset 
