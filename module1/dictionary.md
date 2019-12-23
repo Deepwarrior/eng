@@ -1,3 +1,5 @@
+Apply formatting from mail (10 Dec)
+
 1. pursuing - переслідування
 1. intercept - перехват
 1. rendezvous - місце зустрічі
